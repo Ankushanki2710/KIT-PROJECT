@@ -8,13 +8,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankushanki2710\&show_icons=true\&theme=radical)
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushanki2710\&layout=compact\&theme=radical)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Ankushanki2710\&color=blue)
 
 ---
 
@@ -83,7 +83,7 @@ student-performance-ml/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-performance-ml.git
+git clone https://github.com/Ankushanki2710/student-performance-ml.git
 cd student-performance-ml
 pip install -r requirements.txt
 ```
