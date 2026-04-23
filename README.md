@@ -1,13 +1,6 @@
 # 🎓 Student Performance Prediction & Analysis using Machine Learning
 
 
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushanki2710\&layout=compact\&theme=radical)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Ankushanki2710\&color=blue)
-
----
 
 ## 📌 Overview
 
