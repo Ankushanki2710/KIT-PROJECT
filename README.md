@@ -1,14 +1,5 @@
 # 🎓 Student Performance Prediction & Analysis using Machine Learning
 
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![Model](https://img.shields.io/badge/Model-RandomForest-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankushanki2710\&show_icons=true\&theme=radical)
 
 ## 💻 Top Languages
 
